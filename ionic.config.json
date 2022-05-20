@@ -1,0 +1,8 @@
+{
+  "name": "Consulta API",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fa34c511"
+}

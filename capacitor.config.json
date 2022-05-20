@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Consulta API",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
